@@ -53,9 +53,4 @@ This project is for educational purposes only. It does not connect to Facebook o
 
 MIT License
 
----
-
-If you want, I can also generate a **shorter, cleaner version** suitable for GitHub that looks very professional and beginner-friendly.  
-
-Do you want me to do that?
 
